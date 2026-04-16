@@ -2,7 +2,7 @@
 Currículo online | Desenvolvedor Web
 # Olá, eu sou Vinicius 👋
 
-Estudante de Desenvolvimento Full Stack, apaixonado por construir soluções tanto no front-end quanto no back-end.
+Estudante de Desenvolvimento Full Stack, aprendendo cada dia mais construir soluções tanto no front-end quanto no back-end.
 
 ---
 

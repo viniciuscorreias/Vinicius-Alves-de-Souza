@@ -37,4 +37,4 @@ Estudante de Desenvolvimento Full Stack, aprendendo cada dia mais construir solu
 
 ---
 
-> *"Sempre aprendendo, sempre evoluindo."*
+> *"Em contante construção."*

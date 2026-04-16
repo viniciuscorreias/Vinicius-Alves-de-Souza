@@ -32,8 +32,8 @@ Estudante de Desenvolvimento Full Stack, apaixonado por construir soluções tan
 
 ## 📬 Contato
 
-- Email: `seuemail@email.com`
-- LinkedIn: [seu perfil](https://linkedin.com)
+- Email: vinicius.ascorreia@gmail.com
+- LinkedIn: https://www.linkedin.com/in/vinicius-alves-de-souza-aba2913b8?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 
 ---
 

@@ -19,7 +19,7 @@ Estudante de Desenvolvimento Full Stack, aprendendo cada dia mais construir solu
 
 | Projeto | Descrição |
 |--------|-----------|
-| [Em breve](#) | Adicionarei meus projetos aqui em breve |
+| [meu site](canva.html) | Adicionarei meus projetos aqui em breve |
 
 ---
 

@@ -15,6 +15,16 @@ Estudante de Desenvolvimento Full Stack, aprendendo cada dia mais construir solu
 
 ---
 
+
+## 🧑‍💼 Soft Skills 
+
+- Comunicação 
+- Falicidade e disposição para aprender 
+- Trabalho em grupo 
+- Inglês fluente 
+
+---
+
 ## 📂 Projetos em Destaque
 
 | Projeto | Descrição |
